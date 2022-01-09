@@ -2,7 +2,7 @@
 the following is an implementation of dual q learing architecture
 for the Atari game SpaceInvaders.
 The code also demonstrates how mutlithreading can be used in ML
-and RL tasks in order to speed up training
+and RL tasks to speed up training
 """
 import torch
 import gym
